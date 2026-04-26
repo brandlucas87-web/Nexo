@@ -2,6 +2,16 @@
       CHANGELOG
 ========================
 
+[1.0.3]
+• Implementação do efeito Acrílico (Glassmorphism v2) com desfoque profundo e ruído digital
+• Estabilização do layout fixo para evitar "leaks" de componentes
+• Novas animações de entrada e saída com curvas de Bézier personalizadas
+• Otimização do carregamento de perfis e histórico de jogos
+• Melhoria na renderização de fontes e sombras dinâmicas
+• Sistema de fechamento e minimização com transições suaves
+
+------------------------
+
 [1.0.2]
 • Refatoração completa da aba Home para o padrão Glassmorphism Premium
 • Removidas bordas (strokes) de cartões e imagens para um design mais limpo e imersivo
