@@ -2,6 +2,30 @@
       CHANGELOG
 ========================
 
+[1.0.5]
+• Sistema completo de temas dinâmicos com ThemeProvider
+• 9 temas premium com gradientes acrílicos e efeitos visuais avançados
+• Integração de temas com Monaco Editor para sintaxe colorida personalizada
+• Cards de temas com 3 seções coloridas e layout responsivo (h-28/h-40)
+• Sistema de seleção de temas com feedback visual e bordas dinâmicas
+• Otimização de ícones e logos com mascaramento CSS e filtros avançados
+• Melhoria na performance do carregamento de ícones de APIs externas
+
+------------------------
+
+[1.0.4]
+• Sistema de layout responsivo baseado no estado da janela (Electron API)
+• Cards de scripts dinâmicos: 4 cards normal, 6 cards maximizado
+• Altura responsiva dos cards: h-32 normal, h-40 maximizado (+30px)
+• Detecção precisa de maximização/restauração via IPC do Electron
+• Correção completa da API de busca do RScripts com paginação funcional
+• Sistema de validação de imagens para scripts sem imagens válidas
+• Placeholder personalizado com efeitos de blend e filtros temáticos
+• Melhoria na interface de busca com tema integrado e feedback visual
+• Otimização na renderização de cards com backdrop-filter avançado
+
+------------------------
+
 [1.0.3]
 • Implementação do efeito Acrílico (Glassmorphism v2) com desfoque profundo e ruído digital
 • Estabilização do layout fixo para evitar "leaks" de componentes
