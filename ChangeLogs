@@ -1,1 +1,31 @@
+========================
+      CHANGELOG
+========================
 
+[1.0.2]
+• Refatoração completa da aba Home para o padrão Glassmorphism Premium
+• Removidas bordas (strokes) de cartões e imagens para um design mais limpo e imersivo
+• Novo sistema inteligente de Jogos Recentes puxado diretamente do Roblox sem uso de cookies
+• Embaralhamento roleta para os jogos recentes
+• Sistema de Regex que filtra símbolos e emojis dos nomes dos jogos
+• Adicionado widget de Changelog com sincronização direta do GitHub
+• Melhorias profundas no desempenho de leitura de perfil do usuário
+
+------------------------
+
+[1.0.1]
+• Melhorado o sistema de execução de scripts, agora mais rápido e estável
+• Corrigido erro que fazia o executor travar ao injetar em alguns jogos
+• Ajustes na interface para deixar mais limpa e responsiva
+• Melhor compatibilidade com scripts mais recentes
+• Correção de bugs gerais
+
+------------------------
+
+[1.0.0]
+• Lançamento inicial do executor
+• Sistema básico de execução de scripts funcionando
+• Interface principal com aba Home e Script Hub
+• Integração com conta do Roblox (nome, display name e avatar)
+• Sistema de logs implementado
+• Base pronta para futuras atualizações
