@@ -21,8 +21,6 @@
 • Correção completa da API de busca do RScripts com paginação funcional
 • Sistema de validação de imagens para scripts sem imagens válidas
 • Placeholder personalizado com efeitos de blend e filtros temáticos
-• Melhoria na interface de busca com tema integrado e feedback visual
-• Otimização na renderização de cards com backdrop-filter avançado
 
 ------------------------
 
